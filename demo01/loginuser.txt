@@ -1,0 +1,8 @@
+U00001 test01 12345 test nan 9905.7
+U00002 test02 12345 卖家 nan 552.6
+U30183 李田所 114514 1919810 下北泽 1145.1
+U80083 ikun niganma 真爱粉 灰勒塔德 384.9
+U45802 理塘丁真 igotsmoke 13766666 妈妈省的 123
+U11760 好人 666 sdf sdfsdf 0
+U40255 test 2 asd asdsadsad 0
+U57224 fsd sdfsd 122 acaascsac 36
